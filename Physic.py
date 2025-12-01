@@ -1,5 +1,5 @@
 def show_menu():
-    print("\n===== Physics Formulas =====")
+    print(" Physics Formulas ----==")
     print("1. Gravitational Potential Energy (GPE = m * g * h)")
     print("2. Kinetic Energy (KE = 0.5 * m * v^2)")
     print("3. Ohm's Law (V = I * R)")
